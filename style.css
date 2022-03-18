@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+}
+
+#header,
+#list,
+.items a {
+    color: white;
+}
+#header {
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.items {
+    margin: 30px;
+    
+}
+
+#list {
+    font-family: 'Courier New', Courier, monospace;
+    list-style: none;
+}
+
+.items a{
+    text-decoration: none;
+}
